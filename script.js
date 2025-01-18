@@ -68,7 +68,7 @@ function resetar(){
   document.querySelector(".message").innerHTML = "Comece a adivinhar...";
   document.querySelector("body").style.backgroundColor = "#222";
   document.querySelector('.guess').value = '';
-  numberSecret = Math.trunc(Math.random() * 5 + 1); 
+  numberSecret = Math.trunc(Math.random() * 20 + 1); 
   
   
   
