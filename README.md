@@ -1,5 +1,5 @@
 Number Guessing Game
-Link no vercel: https://jogo-amigo-secreto.vercel.app/
+Link no vercel: https://guessing-game-js-swart.vercel.app/
 Este é um simples jogo de adivinhação de números implementado em JavaScript. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente pelo computador. O jogador insere um palpite e recebe feedback se o número é muito alto, muito baixo ou correto. O jogo mantém a pontuação do jogador e permite reiniciar o jogo a qualquer momento.
 
 Funcionalidades:
